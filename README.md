@@ -14,4 +14,4 @@ SQL Queries [here](https://github.com/tiffanylin706/Pewlett-Hackard-Analysis/tre
 Currently, there are 300,024 employees and 90,398 of them are qualified to retire in the next four years, which is about 30%. 
 
 **Retirement Employees by Title**
-(https://github.com/tiffanylin706/Pewlett-Hackard-Analysis/blob/ae2015bc7823d7e8b458f4ec414fdd96de662eee/Data/1.png)
+![Retirement Employees by Title](https://github.com/tiffanylin706/Pewlett-Hackard-Analysis/blob/ae2015bc7823d7e8b458f4ec414fdd96de662eee/Data/1.png)
