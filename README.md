@@ -22,3 +22,5 @@ There are four major point from the analysis:
 (Senior Engineer & Senior Staff)
 
 ![Senior](https://github.com/tiffanylin706/Pewlett-Hackard-Analysis/blob/ae2015bc7823d7e8b458f4ec414fdd96de662eee/Data/1.png)
+
+* Among 331603 employees, only 1,549 of them are eligible for mentorship eligibilty.
